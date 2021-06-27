@@ -1,4 +1,4 @@
-# EnglishStudy
+# Development English study
 개발 영문서 읽기 스터디 
 
 [[스터디 진행 방식]]
